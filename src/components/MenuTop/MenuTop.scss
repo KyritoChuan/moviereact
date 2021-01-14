@@ -1,0 +1,16 @@
+.menu-top {
+  nav {
+    background-color: #001529 !important;
+  }
+
+  &__logo {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+  a {
+    margin-right: 10px;
+  }
+}

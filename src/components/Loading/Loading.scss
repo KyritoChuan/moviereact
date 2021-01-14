@@ -1,0 +1,15 @@
+.loading {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  > div {
+    width: 4rem;
+    height: 4rem;
+  }
+  h2 {
+    margin-top: 1em;
+  }
+}

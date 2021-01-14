@@ -1,0 +1,42 @@
+.modal-video {
+  width: 100% !important;
+  height: 100%;
+  padding: 0 !important;
+
+  .modal-content {
+    height: 100%;
+    width: 100%;
+    background-color: #000 !important;
+
+    .close {
+      color: #fff;
+
+      span {
+        font-size: 40px;
+        margin-right: 20px;
+        margin-top: 20px;
+      }
+    }
+
+    .modal-body {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      > div {
+        width: 90% !important;
+        height: 90% !important;
+      }
+    }
+  }
+}
+.modal-dialog {
+  height: 100%;
+  width: 100%;
+  background-color: #000 !important;
+}
+
+.modal-header {
+  border-bottom: #000 !important;
+}
