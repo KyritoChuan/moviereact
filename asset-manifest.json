@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5d0a942.chunk.css",
-    "main.js": "/static/js/main.abc877f1.chunk.js",
-    "main.js.map": "/static/js/main.abc877f1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c3fcd443.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c3fcd443.js.map",
-    "static/css/2.e75542ce.chunk.css": "/static/css/2.e75542ce.chunk.css",
-    "static/js/2.3c0d6848.chunk.js": "/static/js/2.3c0d6848.chunk.js",
-    "static/js/2.3c0d6848.chunk.js.map": "/static/js/2.3c0d6848.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3119476c50f7bd8d3c128379dd57e386.js": "/precache-manifest.3119476c50f7bd8d3c128379dd57e386.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e75542ce.chunk.css.map": "/static/css/2.e75542ce.chunk.css.map",
-    "static/css/main.f5d0a942.chunk.css.map": "/static/css/main.f5d0a942.chunk.css.map",
-    "static/js/2.3c0d6848.chunk.js.LICENSE.txt": "/static/js/2.3c0d6848.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.cb90c5bd.svg"
+    "main.css": "/moviereact/static/css/main.f5d0a942.chunk.css",
+    "main.js": "/moviereact/static/js/main.8b3d8083.chunk.js",
+    "main.js.map": "/moviereact/static/js/main.8b3d8083.chunk.js.map",
+    "runtime-main.js": "/moviereact/static/js/runtime-main.a5e0e167.js",
+    "runtime-main.js.map": "/moviereact/static/js/runtime-main.a5e0e167.js.map",
+    "static/css/2.e75542ce.chunk.css": "/moviereact/static/css/2.e75542ce.chunk.css",
+    "static/js/2.3c0d6848.chunk.js": "/moviereact/static/js/2.3c0d6848.chunk.js",
+    "static/js/2.3c0d6848.chunk.js.map": "/moviereact/static/js/2.3c0d6848.chunk.js.map",
+    "index.html": "/moviereact/index.html",
+    "precache-manifest.6a6458204517d4781674e7a911996bc0.js": "/moviereact/precache-manifest.6a6458204517d4781674e7a911996bc0.js",
+    "service-worker.js": "/moviereact/service-worker.js",
+    "static/css/2.e75542ce.chunk.css.map": "/moviereact/static/css/2.e75542ce.chunk.css.map",
+    "static/css/main.f5d0a942.chunk.css.map": "/moviereact/static/css/main.f5d0a942.chunk.css.map",
+    "static/js/2.3c0d6848.chunk.js.LICENSE.txt": "/moviereact/static/js/2.3c0d6848.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/moviereact/static/media/logo.cb90c5bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3fcd443.js",
+    "static/js/runtime-main.a5e0e167.js",
     "static/css/2.e75542ce.chunk.css",
     "static/js/2.3c0d6848.chunk.js",
     "static/css/main.f5d0a942.chunk.css",
-    "static/js/main.abc877f1.chunk.js"
+    "static/js/main.8b3d8083.chunk.js"
   ]
 }
