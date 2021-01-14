@@ -2,12 +2,14 @@
   "name": "movie-react-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kyritochuan.github.io/moviereact",
   "dependencies": {
     "@ant-design/icons": "^4.0.6",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
+    "gh-pages": "^3.1.0",
     "moment": "2.22.2",
     "node-sass": "^4.13.1",
     "query-string": "^6.12.1",
@@ -23,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
